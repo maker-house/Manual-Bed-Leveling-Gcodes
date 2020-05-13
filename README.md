@@ -12,7 +12,8 @@ Este método te dará buen resultado a medida que la superficie de impresión es
 
 1. Descargar el repositorio o el archivo correspondiente a tu máquina segun las dimensiones de tu cama. 
 
-- Superficies de 230 x 230 mm (Ender 3 - 5, CR10) : bedlevel2323.gcode
+- Superficies de 235 x 235 mm (CR10) : bedlevel2323.gcode
+- Superficies de 235 x 235 mm (Ender 3 stock), con pequeño offset (La posicion Y0 esta approx 1cm fuera de la cama) : bedlevelEnder3.gcode 
 - Superficies de 220 x 220 mm (Anet A8) : bedlevel2222.gcode
 - Superficies de 230 x 150 mm (Flashforge, Makerbot) : bedlevel2315.gcode
 
