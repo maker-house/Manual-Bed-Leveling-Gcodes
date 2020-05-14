@@ -16,6 +16,7 @@ Este método te dará buen resultado a medida que la superficie de impresión es
 - Superficies de 235 x 235 mm (Ender 3 stock), con pequeño offset (La posicion Y0 esta approx 1cm fuera de la cama) : [bedlevelEnder3.gcode](https://github.com/makerhaus/BedLevelingGcodes/blob/master/bedlevelEnder3.gcode) 
 - Superficies de 220 x 220 mm (Anet A8) : [bedlevel2222.gcode](https://github.com/makerhaus/BedLevelingGcodes/blob/master/levelBed2222.gcode)
 - Superficies de 230 x 150 mm (Flashforge, Makerbot) : [bedlevel2315.gcode](https://github.com/makerhaus/BedLevelingGcodes/blob/master/levelBed2315.gcode)
+- Etc (300 x 300 , 400 x 400 y 500 x 500) 
 
 2. Copiar el archivo en la tarjeta SD de la impresora
 3. Colocar el papel en la superficie de impresión 
