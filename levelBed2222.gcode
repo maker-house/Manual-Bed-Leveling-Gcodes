@@ -8,7 +8,7 @@ G1 X20 Y20
 G1 Z0 
 M0 Click to continue
 G1 Z10 
-G1 X200 Y0 
+G1 X200 Y20 
 G1 Z0 
 M0 Click to continue
 G1 Z10 

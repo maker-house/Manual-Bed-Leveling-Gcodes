@@ -4,23 +4,23 @@
 M117 Homing...
 G28
 G1 Z10 
-G1 X30 Y40
+G1 X30 Y30
 G1 Z0 
 M0 Click to continue
 G1 Z10 
-G1 X200 Y40 
+G1 X470 Y30 
 G1 Z0 
 M0 Click to continue
 G1 Z10 
-G1 X200 Y210
+G1 X470 Y470
 G1 Z0 
 M0 Click to continue
 G1 Z10 
-G1 X30 Y210
+G1 X30 Y470
 G1 Z0 
 M0 Click to continue
 G1 Z10 
-G1 X115 Y125
+G1 X250 Y250
 G1 Z0 
 M0 Click to continue
 G1 Z10 
