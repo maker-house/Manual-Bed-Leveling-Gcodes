@@ -10,6 +10,7 @@ Este método te dará buen resultado a medida que la superficie de impresión es
 - Tarjeta SD
 - Hoja de papel
 
+## Procedimiento
 1. Descargar el repositorio o el archivo correspondiente a tu máquina segun las dimensiones de tu cama. 
 
 - Superficies de 235 x 235 mm (CR10) : [bedlevel2323.gcode](https://github.com/makerhaus/BedLevelingGcodes/blob/master/levelBed2323.gcode)
